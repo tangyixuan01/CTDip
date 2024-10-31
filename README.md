@@ -5,6 +5,7 @@ Welcome to the homepage of CTDip, a compiler testing approach via diverse test p
 ## Requirments
 
 * YARPGen
+  
 We develop the tool of CTDip based on the testing framework of YARPGen. Building ``yarpgen`` is trivial. All you have to do is to use cmake:
 
 ```bash
@@ -15,6 +16,7 @@ make
 ```
 
 * CSmith
+  
 We leverage CSmith to generate initial seed programs. 
 
 * python 3
